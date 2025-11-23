@@ -25,6 +25,6 @@
 
 ## 📦 Запуск локально
 
-git clone https://github.com/your-username/skin-tone-mvp.git
+git clone https://github.com/elomed2014-tech/skin-tone-mvp.git
 pip install -r requirements.txt
 streamlit run app.py
